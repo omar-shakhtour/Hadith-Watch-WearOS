@@ -1,4 +1,4 @@
-package com.example.hadithreminderwearos.presentation.theme
+package com.hadithwatch.hadithreminderwearos.presentation.theme
 
 import androidx.compose.runtime.Composable
 import androidx.wear.compose.material.MaterialTheme

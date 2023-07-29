@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.hadithreminderwearos"
+        applicationId "com.hadithwatch.hadithreminderwearos"
         minSdk 30
         targetSdk 33
         versionCode 1
@@ -63,6 +63,7 @@ dependencies {
     implementation 'androidx.activity:activity-compose:1.5.1'
     implementation "androidx.wear.tiles:tiles:$wear_tiles_version"
     implementation "androidx.wear.tiles:tiles-material:$wear_tiles_version"
+    implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.0"
     implementation "com.google.android.horologist:horologist-compose-tools:$horologist_version"
     implementation "com.google.android.horologist:horologist-tiles:$horologist_version"
     implementation 'androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1'

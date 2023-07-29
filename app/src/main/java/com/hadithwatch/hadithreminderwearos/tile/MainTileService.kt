@@ -1,4 +1,4 @@
-package com.example.hadithreminderwearos.tile
+package com.hadithwatch.hadithreminderwearos.tile
 
 import android.content.Context
 import androidx.compose.runtime.Composable

@@ -1,4 +1,4 @@
-package com.example.hadithreminderwearos.presentation.theme
+package com.hadithwatch.hadithreminderwearos.presentation.theme
 
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily

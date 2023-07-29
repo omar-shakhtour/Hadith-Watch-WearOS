@@ -1,4 +1,4 @@
-package com.example.hadithreminderwearos.complication
+package com.hadithwatch.hadithreminderwearos.complication
 
 import androidx.wear.watchface.complications.data.ComplicationData
 import androidx.wear.watchface.complications.data.ComplicationType
