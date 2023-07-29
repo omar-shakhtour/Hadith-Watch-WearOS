@@ -11,9 +11,9 @@ It contains a refresh button to allow a new hadith to be displayed.
 ## Hadith-Watch-WearOS
 
 <p align="center">
-  <img alt="Light" src="images/screenshotOne.JPG" width="45%">
+  <img alt="Light" src="images/Playstore_Image_1.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="images/screenshotTwo.JPG" width="45%">
+  <img alt="Dark" src="images/Playstore_Image_2.png" width="45%">
 </p>
 
 ## Goals
