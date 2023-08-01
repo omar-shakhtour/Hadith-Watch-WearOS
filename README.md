@@ -1,6 +1,8 @@
-# Hadith-Watch-WearOS
-This is a smartwatch application built for WearOS. It is designed to display a Hadith (quote) to users. 
+# Hadith Watch WearOS
+This is a smartwatch application built for WearOS. It is designed to display a Hadith (quote/narration) to users. 
 It contains a refresh button to allow a new hadith to be displayed.
+
+Google Play Store Listing:  [Hadith Watch — WearOS](https://play.google.com/store/apps/details?id=com.hadithwatch.hadithreminderwearos).
 
 ## Built With
 
@@ -17,7 +19,7 @@ It contains a refresh button to allow a new hadith to be displayed.
 </p>
 
 ## Goals
-* Publishing application on the Google Play Store & Samsung Galaxy Store
+* ~~Publishing application on the Google Play Store~~ [Completed]
 * Developing an iOS version of the application using Swift or Flutter
 
 ## License
